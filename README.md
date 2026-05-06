@@ -39,4 +39,4 @@ Open-source work and side projects are in progress. Check back here later.
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://www.linkedin.com/in/massimo-carlini-81500a271/)
