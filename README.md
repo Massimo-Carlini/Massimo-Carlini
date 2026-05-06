@@ -39,4 +39,4 @@ Open-source work and side projects are in progress. Check back here later.
 
 ## Contact
 
-[![LinkedIn](https://www.linkedin.com/in/massimo-carlini-81500a271/)
+[![LinkedIn](https://www.linkedin.com/in/massimo-carlini-81500a271/)]
