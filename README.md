@@ -1,12 +1,10 @@
-<sub>● &nbsp;ACTIVE&nbsp;·&nbsp;BUILDING NAVIGATION STACK FOR AMRs&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;ID · MC—001&nbsp;·&nbsp;v2026.01</sub>
-
-## Massimo Carlini
+# Massimo Carlini
 
 ###### Robotics Software Engineer&nbsp;·&nbsp;Autonomous Navigation&nbsp;·&nbsp;AMR
 
 <br />
 
-> **I build software for robots that move through the real world.**
+**I build software for robots that move through the real world.**
 
 The work sits at the intersection of *autonomous navigation* and *mobile robotics* — systems that need to **perceive**, **decide**, and **act** reliably in dynamic environments. Drawn to humanoids and the broader challenge of mobile autonomy.
 
@@ -36,7 +34,7 @@ The work sits at the intersection of *autonomous navigation* and *mobile robotic
 ![Python](https://img.shields.io/badge/Python-0B0B0A?style=flat-square&logo=python&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/ROS%202-0B0B0A?style=flat-square&logo=ros&logoColor=white)
 
-<sub>**TOOLING** &nbsp;·&nbsp; Nav2 &nbsp;·&nbsp; MoveIt 2 &nbsp;·&nbsp; Gazebo &nbsp;·&nbsp; Eigen &nbsp;·&nbsp; OpenCV &nbsp;·&nbsp; PCL &nbsp;·&nbsp; Docker &nbsp;·&nbsp; CMake &nbsp;·&nbsp; Linux</sub>
+<sub>**TOOLING** &nbsp;·&nbsp; Nav2 &nbsp;·&nbsp;·&nbsp; Gazebo &nbsp;·&nbsp; OpenCV &nbsp;·&nbsp; OpcUA &nbsp;·&nbsp; Docker &nbsp;·&nbsp; CMake &nbsp;·&nbsp; Linux</sub>
 
 <br />
 
@@ -76,8 +74,8 @@ Developing navigation software for Autonomous Mobile Robots. Core work spans mot
 | | |
 |---|---|
 | `01 / LINKEDIN` | [massimo-carlini](https://www.linkedin.com/in/massimo-carlini-81500a271/) |
-| `02 / EMAIL`    | on request |
-| `03 / COLLAB`   | mobile autonomy &nbsp;·&nbsp; humanoids &nbsp;·&nbsp; navigation |
+| `02 / EMAIL`    | <massi.carlini99@gmail.com> |
+| `03 / COLLAB`   | mobile autonomy &nbsp;·&nbsp; humanoids &nbsp;·&nbsp; navigation &nbsp;·&nbsp; perception|
 
 <br />
 
